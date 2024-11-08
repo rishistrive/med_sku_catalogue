@@ -23,6 +23,6 @@ cd med_sku_catalogue
 
 2.Build the Docker image:
 ```bash
-sudo docker-compose up --build
+sudo docker compose up --build
 ```
 3.Access the application at http://0.0.0.0:8000/api/docs/swagger/

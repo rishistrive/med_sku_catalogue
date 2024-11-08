@@ -1,7 +1,5 @@
-# Django
+Django
 djangorestframework
 django-filter
 drf_spectacular
 drf_yasg
-Django>=3.2,<4.0
-gunicorn>=20.1,<21.0
